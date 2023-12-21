@@ -1,0 +1,15 @@
+{
+  "name": "antoi",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto de nodejs",
+  "main": "index.html ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoineganem/guia-hoteles/blob/main/README.md"
+  },
+  "author": "Antoine Ganem",
+  "license": "ISC"
+}
